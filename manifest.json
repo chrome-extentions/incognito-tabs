@@ -6,7 +6,8 @@
     "tabs",
     "windows",
     "storage",
-    "sessions"
+    "sessions",
+    "alarms"
   ],
   "background": {
     "service_worker": "background.js"
